@@ -7,7 +7,7 @@ The following repository was created thinking of a compilation of calculator and
 - Tkinter Basic calculator
 - Tkinter Intermediate Calculator
 - Text Editor✍
-- 
+
 ## Descriptions:
 - The first project is based on a basic calculator created with tkinter but at the same time with optimized code.
 - The second project is an aesthetically more advanced calculator than the first.
